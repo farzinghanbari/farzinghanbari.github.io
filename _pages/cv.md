@@ -11,30 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Computer Science, Shiraz University, 2020
+* B.Sc. in Computer Science, University of Zanjan, 2016
+* A.Sc. in Computer Science, University of Birjand, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Rabsana Co: Web Developer
+  * Developed reliable e-commerce web application
+  * Refactored legacy code
+  * Increased test coverage
+  * Dockerized web applications
+  * Managed several junior developers
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Zagros Co: Software Developer
+  * Joined as an intern
+  * Developed several android apps
+  * Developed several web applications using PHP
+
+Notable projects
+======
+* Social Unrest Predictor (M.Sc. Thesis)
+  * Crawler for collecting twitter data
+  * Clustering
+  * NER
+
+* Grid Information Service and Grid Scheduler
+  * Host resource collection
+  * Task scheduling using metaheuristic algorithms
+
+* MPICH Cluster Setup
+
+* Git Server Setup
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching
+* Management
+* Debugging
+* Testing
+* Programming
+  * Python, Golang, Javascript, PHP, C++, Java, SQL, Bash
+* Linux
+  * Fedora, Arch Linux, Ubuntu, CentOS
+* Git
+* Docker
+* Vim
+* MPICH
+* OpenMPI
 
 Publications
 ======
@@ -42,11 +67,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -54,6 +79,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

@@ -8,3 +8,6 @@ date: 2016-01-01
 location: "Zanjan, Iran"
 ---
 
+- **Assignment Grading:**
+  - Evaluated and graded students' assignments, and provided feedback on their performance.
+  - Ensured consistency and fairness in assessment, adhering to established grading criteria and academic standards.
