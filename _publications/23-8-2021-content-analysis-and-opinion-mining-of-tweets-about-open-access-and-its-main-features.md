@@ -1,0 +1,16 @@
+---
+title: "Content analysis and Opinion mining of Tweets about Open Access and its Main Features"
+collection: publications
+permalink: /publication/23-8-2021-content-analysis-and-opinion-mining-of-tweets-about-open-access-and-its-main-features
+excerpt: 'This study aimed to identify the main features of Open Access tweeted by Twitter users and to analyze their opinions about them.'
+date: 2021-8-23
+venue: 'Iranian Journal of Information processing and Management'
+paperurl: 'https://jipm.irandoc.ac.ir/article_699667_en.html'
+citation: 'Saber, Z., Sotudeh, H., Yousefi, Z., Khunjush, F., & Ghanbari Aloni, F. (2021). Content analysis and Opinion mining of Tweets about Open Access and its Main Features. Iranian Journal of Information Processing and Management, 37(1), 305-329. doi: 10.52547/jipm.37.1.305.'
+---
+This study aimed to identify the main features of Open Access tweeted by Twitter users and to analyze their opinions about them. A sample of English tweets about Open Access was identified and analyzed using a quantitative content analysis method with opinion mining approach. To do so, based on a wide literature review, the main features of Open Access discussed in the literature were identified and used to compose the search formula. This step retrieved 874270 tweets. The data were, then, cleaned using exact match search in Excel, resulting in a sample consisting of 165320 relevant tweets. The sample was, then, classified into four thematic groups including “costs and financial resources”, “publication and resources”, “models” and “validity and quality”. To analyze the tweets’ contents and calculate their opinion scores, the KNIME and SentiStrength applications were used, respectively. The data were analyzed using descriptive and inferential statistics in Excel and SPSS. The results showed that the concepts related to the Open Access “publication and resources” have been tweeted the most. The group being set aside given its all-inclusive nature, the “credibility and quality” as well as the “costs and financial resources” are the two main issues discussed by Twitter users. According to the opinion mining results, more than half of the tweets were neutral and the positive opinions are of slightly higher frequency compared to the negative ones. The “credibility and quality” and the “costs and financial resources” received more negative tweets. Thus, in line with previous surveys conducted to explore the concerns of researchers and stakeholders about Open Access, the present study provided an almost similar picture for the social space. Since Open Access to scientific information is a necessity for the development of knowledge-based societies, the results highlight the need to take serious steps to strengthen its positive points and devise solutions to the problems and challenges leading to the negative feedbacks.
+
+
+[Download paper here](https://jipm.irandoc.ac.ir/article_699667_ca5522e61008d532598c2817532f3974.pdf)
+
+Recommended citation: Saber, Z., Sotudeh, H., Yousefi, Z., Khunjush, F., & Ghanbari Aloni, F. (2021). Content analysis and Opinion mining of Tweets about Open Access and its Main Features. Iranian Journal of Information Processing and Management, 37(1), 305-329. doi: 10.52547/jipm.37.1.305.

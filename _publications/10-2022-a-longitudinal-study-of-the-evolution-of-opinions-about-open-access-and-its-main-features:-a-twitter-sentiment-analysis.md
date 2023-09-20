@@ -1,0 +1,15 @@
+---
+title: "A longitudinal study of the evolution of opinions about open access and its main features: a twitter sentiment analysis"
+collection: publications
+permalink: /publication/10-2022-a-longitudinal-study-of-the-evolution-of-opinions-about-open-access-and-its-main-features:-a-twitter-sentiment-analysis
+excerpt: 'This paper aimed to explore how tweeters’ opinions about open access publishing and its main features evolve over time.'
+date: 2022-10-01
+venue: 'Scientometrics'
+paperurl: 'https://link.springer.com/article/10.1007/s11192-022-04502-7'
+citation: 'Sotudeh, H., Saber, Z., Ghanbari Aloni, F. et al. A longitudinal study of the evolution of opinions about open access and its main features: a twitter sentiment analysis. Scientometrics 127, 5587–5611 (2022). https://doi.org/10.1007/s11192-022-04502-7.'
+---
+The present study aimed to explore how tweeters’ opinions about open access publishing and its main features evolved over time. Using a quantitative content analysis method through an opinion mining approach, it explored a sample of English tweets on open access posted from 2007 to December 2019. The main terms related to open access were first identified through reviewing the related literature and were then categorized into five features including “costs & funding”, “impact”, “models”, “publishing & publications”, and “quality & quality control”. The terms were composed in the form of search formulae. The searches on Twitter led to retrieving 629,123 tweets. A cleansing process was carried out to remove duplicates, non-English, and low-relevant tweets. The final sample reached 80,629 tweets. The tweets were then tagged with the five features. The KNIME data mining tool and SentiStrength were used respectively for processing the tweets' contents and calculating their opinion scores. According to the results, the open-access-related tweets have been growing based on a sigmoidal model. They were mostly neutral and opinion tweets were far lower in number. The tweets in different polarities have been increasing based on a power-law model, with the negative tweets experiencing a disproportionately higher increase. The positive and negative opinions have remained almost stable in strength, with the former being stronger. The results were almost in line with the previous surveys confirming the co-existence of the positive and negative attitudes about open access. However, the social sphere has been gradually becoming more negative. As attitudes are likely to go viral on social networks, and thereby affect users’ perceptions and behaviors, the results call for devising appropriate measures to empower the movement and to find solutions for the problems and concerns leading to the negative opinions.
+
+[Download paper here](https://link.springer.com/article/10.1007/s11192-022-04502-7)
+
+Recommended citation: Sotudeh, H., Saber, Z., Ghanbari Aloni, F. et al. A longitudinal study of the evolution of opinions about open access and its main features: a twitter sentiment analysis. Scientometrics 127, 5587–5611 (2022). https://doi.org/10.1007/s11192-022-04502-7.

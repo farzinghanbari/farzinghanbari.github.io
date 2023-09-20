@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brief Introduction"
+  name             : "Farzin Ghanbari"
   avatar           : "farzin.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Master of Science (MSc.) in Computer Science Graduate from Shiraz University"
   location         : "Tehran"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/farzin-ghanbari"
+  linkedin         : "farzin-ghanbari"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/11702962/farzin" # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "11702962/farzin" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          :
