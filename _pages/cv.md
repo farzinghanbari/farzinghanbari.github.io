@@ -44,22 +44,36 @@ Notable projects
 
 * Git Server Setup
 
-
 Skills
 ======
-* Teaching
-* Management
-* Debugging
-* Testing
-* Programming
-  * Python, Golang, Javascript, PHP, C++, Java, SQL, Bash
-* Linux
-  * Fedora, Arch Linux, Ubuntu, CentOS
-* Git
-* Docker
-* Vim
-* MPICH
-* OpenMPI
+* Programming Languages
+  * Python
+  * Golang
+  * Javascript
+  * PHP
+  * SQL
+  * Bash
+* Linux Distros
+  * Fedora
+  * Arch Linux
+  * Ubuntu
+* Tools
+  * Git
+  * Docker
+* Misc.
+  * MPICH
+  * OpenMPI
+
+Languages
+======
+* Farsi (Native Language)
+* English (Advanced, TOEFL 110/120)
+  * Reading: 28
+  * Listening: 30
+  * Speaking: 25
+  * Writing: 27
+* German (A2)
+
 
 Publications
 ======
