@@ -46,26 +46,14 @@ Notable projects
 
 Skills
 ======
-* Programming Languages
-  * Python
-  * Golang
-  * Javascript
-  * PHP
-  * Bash
-* Databases
-  * MySQL
-  * PostgreSQL
-  * MongoDB
-* Linux Distros
-  * Fedora
-  * Arch Linux
-  * Ubuntu
-* Tools
-  * Git
-  * Docker
-* Misc.
-  * MPICH
-  * OpenMPI
+
+| Programming Languages                                          | Databases                                                              | Linux Distros                                                    | Misc                                                       |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Python](/images/skills/python.png){: width="40" } Python     | ![MySQL](/images/skills/mysql.png){: width="40" }           MySQL      | ![Ubuntu](/images/skills/ubuntu.png){: width="40" }   Ubuntu     | ![Git](/images/skills/git.png){: width="40" }       Git    |
+| ![Go](/images/skills/golang.png){: width="40" } Go     | ![PostgreSQL](/images/skills/postgresql.png){: width="40" } PostgreSQL | ![Fedora](/images/skills/fedora.png){: width="40" }   Fedora     | ![Docker](/images/skills/docker.png){: width="40" } Docker |
+| ![Javascript](/images/skills/js.png){: width="40" } Javascript | ![MongoDB](/images/skills/mongodb.png){: width="40" }       MongoDB    | ![Arch Linux](/images/skills/arch.png){: width="40" } Arch Linux | ![MPICH](/images/skills/mpich.png){: width="40" }   MPICH  |
+| ![PHP](/images/skills/php.png){: width="40" }       PHP        |                                                                        |                                                                  |                                                            |
+| ![Bash](/images/skills/bash.png){: width="40" }     Bash       |                                                                        |                                                                  |                                                            |
 
 Languages
 ======

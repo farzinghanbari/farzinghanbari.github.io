@@ -10,8 +10,15 @@ redirect_from:
 
 My name is Farzin Ghanbari, I am an enthusiastic and dedicated computer scientist who likes to keep up with ever-evolving world of computer science. Holding a Master's degree and fueled by a relentless desire for continuous learning, I immerse myself in reading books.
 
-My main research interests includes: Software Engineering and Testing, Artificial Intelligence for Software Engineering and Software Engineering for Artificial Intelligence.
-I am also interested in learning more about Vulnerability detection, and Natural Language Processing (NLP).
+My main research interests are:
+- Software Engineering
+- Artificial Intelligence for Software Engineering
+- Software Engineering for Artificial Intelligence
+
+I am also interested in learning more about:
+- Vulnerability Detection
+- Bug Localization
+- Natural Language Processing (NLP).
 
 ## **Academic Journey**
 
