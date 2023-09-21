@@ -51,7 +51,6 @@ Skills
   * Golang
   * Javascript
   * PHP
-  * SQL
   * Bash
 * Databases
   * MySQL
