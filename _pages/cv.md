@@ -53,6 +53,10 @@ Skills
   * PHP
   * SQL
   * Bash
+* Databases
+  * MySQL
+  * PostgreSQL
+  * MongoDB
 * Linux Distros
   * Fedora
   * Arch Linux
